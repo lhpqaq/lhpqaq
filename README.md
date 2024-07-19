@@ -1,26 +1,15 @@
 <img align="right" src="https://count.getloli.com/get/@:lhpqaq?theme=rule34">
 
-## Hi there 👋
-
-<!--
-**lhpqaq/lhpqaq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
+## Hi there 👋  
+  
+  
 ![lhpqaq's github stats](https://github-readme-stats.vercel.app/api?username=lhpqaq\&rank_icon=github&theme=vue)
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lhpqaq/lhpqaq/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lhpqaq/lhpqaq/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/lhpqaq/lhpqaq/output/github-contribution-grid-snake.svg">
-</picture>
+      
+<p>
+  <img src="https://stats.justsong.cn/api/leetcode?username=lhpqaq&cn=true" alt="" width="49%" />
+  <img src="https://stats.justsong.cn/api/github?username=lhpqaq" alt="" width="49%" /> 
+</p>
+  
+
+![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=lhpqaq&theme=github)
