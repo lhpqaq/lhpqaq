@@ -19,3 +19,8 @@ Here are some ideas to get you started:
 
 ![lhpqaq's github stats](https://github-readme-stats.vercel.app/api?username=lhpqaq\&rank_icon=github&theme=vue)
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lhpqaq/lhpqaq/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lhpqaq/lhpqaq/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/lhpqaq/lhpqaq/output/github-contribution-grid-snake.svg">
+</picture>
