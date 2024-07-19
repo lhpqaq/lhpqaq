@@ -2,8 +2,8 @@
 
 ## Hi there 👋  
   
-  
-![lhpqaq's github stats](https://github-readme-stats.vercel.app/api?username=lhpqaq\&rank_icon=github&theme=vue)
+
+![lhpqaq's github stats](https://github-readme-stats.vercel.app/api?username=lhpqaq\&rank_icon=github&theme=transparent&card_width=1000)
 
       
 <p>
