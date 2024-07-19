@@ -1,3 +1,5 @@
+<img align="right" src="https://count.getloli.com/get/@:lhpqaq?theme=rule34">
+
 ## Hi there 👋
 
 <!--
@@ -16,3 +18,4 @@ Here are some ideas to get you started:
 -->
 
 ![lhpqaq's github stats](https://github-readme-stats.vercel.app/api?username=lhpqaq\&rank_icon=github&theme=vue)
+
