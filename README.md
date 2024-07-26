@@ -13,3 +13,7 @@
   
 
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=lhpqaq&theme=github)
+
+### Gitee project
+- [qingzhou - Lightweight, easy, web management software development platform](https://gitee.com/openeuler/qingzhou)
+- [easybox - A project that uses the rust language to rewrite the basic command lines used in Linux](https://gitee.com/openeuler/easybox)
