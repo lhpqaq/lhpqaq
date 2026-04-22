@@ -16,6 +16,7 @@
 
  ## 原创 / 维护
  - [bigtop-manager](https://github.com/apache/bigtop-manager)：面向 Apache Bigtop 的集群部署与管理平台，降低大数据组件运维门槛。
+ - [qq-musicfox](https://github.com/lhpqaq/qq-musicfox): 终端里的QQ音乐，QQ音乐 TUI 客户端
  - [all2api](https://github.com/lhpqaq/all2api)：将多种上游非标准接口统一转换为 OpenAI / Anthropic 兼容 API。
  - [infini-gb](https://github.com/lhpqaq/infini-gb)：infini-cloud 自动注册 & 应用邀请码。➕2GB
  - [replit-proxy](https://github.com/lhpqaq/replit-proxy)：用于 Replit 场景的 TypeScript 代理服务实现。
